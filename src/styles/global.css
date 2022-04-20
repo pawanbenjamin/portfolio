@@ -6,6 +6,7 @@
 
 :root {
   --main-bg-color: rgb(42, 165, 46);
+  --root-bg-color: rgb(96, 232, 130);
 }
 
 .section {
@@ -17,5 +18,5 @@
 }
 
 .background {
-  background-image: var(--main-bg-color);
+  background-color: var(--root-bg-color);
 }
